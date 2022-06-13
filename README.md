@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I' currently learning C# & Unity 
+Enjoy ❗🐤
+
 <!--
 **hiroto302/hiroto302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
