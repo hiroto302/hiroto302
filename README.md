@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I' currently learning C# & Unity 
+I'm currently learning C# & Unity 
 
 Enjoy ❗🐤
 
